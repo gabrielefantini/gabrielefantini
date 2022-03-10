@@ -12,19 +12,21 @@
 
 <details>
   <summary>📃 Exams</summary>
-  - Applicazioni Web I
-  - Architetture dei sistemi di elaborazione
-  - Data Science e Tecnologie per le Basi di Dati	
-  - Formal languages and compilers
-  - Information systems
-  - Ingegneria del software
-  - Machine learning for vision and multimedia
-  - Mobile application development
-  - Programmazione di sistema
-  - Sicurezza dei sistemi informativi
-  - Software Engineering II
-  - Tecnologie e servizi di rete
-  - Web Applications II
+  <ul>
+    <li> Applicazioni Web I</li>
+    <li>Architetture dei sistemi di elaborazione</li>
+    <li>Data Science e Tecnologie per le Basi di Dati	</li>
+    <li>Formal languages and compilers</li>
+    <li>Information systems</li>
+    <li>Ingegneria del software</li>
+    <li>Machine learning for vision and multimedia</li>
+    <li>Mobile application development</li>
+    <li>Programmazione di sistema</li>
+    <li>Sicurezza dei sistemi informativi</li>
+    <li> Software Engineering II</li>
+    <li>Tecnologie e servizi di rete</li>
+    <li>Web Applications II</li>
+  </ul>
 </details>
 
 - 🎓 **Ingegneria Informatica ed Elettronica**\
@@ -33,23 +35,25 @@
 
 <details>
   <summary>📃 Exams</summary>
-  - Analisi Matematica 1
-  - Analisi Matematica 2
-  - Fisica A
-  - Fondamenti di Informatica e Laboratorio
-  - Geometria ed Algebra
-  - Matematica Discreta
-  - Architetture dei Calcolatori e Sistemi Operativi
-  - Calcolo delle Probabilità
-  - Fisica B
-  - Fondamenti di Automatica
-  - Programmazione di Interfacce Grafiche e Dispositivi Mobili
-  - Teoria dei Circuiti
-  - Teoria dei Segnali
-  - Basi di Dati
-  - Economia ed Organizzazione Aziendale
-  - Ingegneria dei Sistemi di Controllo
-  - Reti Logiche e Microcontrollori e Laboratorio
-  - Fondamenti di Internet con Laboratorio
-  - Algoritmi e Strutture di Dati
+  <ul>
+    <li> Analisi Matematica 1</li>
+    <li>Analisi Matematica 2</li>
+    <li>Fisica A</li>
+    <li>Fondamenti di Informatica e Laboratorio</li>
+    <li> Geometria ed Algebra</li>
+    <li> Matematica Discreta</li>
+    <li> Architetture dei Calcolatori e Sistemi Operativi</li>
+    <li>Calcolo delle Probabilità</li>
+    <li>Fisica B</li>
+    <li> Fondamenti di Automatica</li>
+    <li> Programmazione di Interfacce Grafiche e Dispositivi Mobili</li>
+    <li> Teoria dei Circuiti</li>
+    <li> Teoria dei Segnali</li>
+    <li> Basi di Dati</li>
+    <li> Economia ed Organizzazione Aziendale</li>
+    <li> Ingegneria dei Sistemi di Controllo</li>
+    <li>Reti Logiche e Microcontrollori e Laboratorio</li>
+    <li>Fondamenti di Internet con Laboratorio</li>
+    <li> Algoritmi e Strutture di Dati</li>
+ </ul>
 </details>
