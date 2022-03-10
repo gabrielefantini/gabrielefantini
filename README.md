@@ -8,7 +8,8 @@
 
 - 🎓 **Laurea Magistrale in Ingegneria Informatica**\
 📆 2020 - 2022\
-📍 **Politecnico di Torino** - Torino, Italy
+📍 **Politecnico di Torino** - Torino, Italy\
+📕 Continuous integration for End-to-End testing of mobile applications.
 
 <details>
   <summary>📃 Exams</summary>
@@ -29,9 +30,14 @@
   </ul>
 </details>
 
+---
+
 - 🎓 **Ingegneria Informatica ed Elettronica**\
 📆 2016 - 2020\
-📍 **Università degli Studi di Perugia** - Perugia, Italy
+📍 **Università degli Studi di Perugia** - Perugia, Italy\
+📕 Studio e sviluppo di un sistema per
+l’aggiornamento software over-the-air
+(ota) per applicazioni automotive.
 
 <details>
   <summary>📃 Exams</summary>
