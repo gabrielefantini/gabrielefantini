@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![image]({https://github.com/gabrielefantini/gabrielefantini/blob/main/Corporate%20Business%20Card.png})
 <!--
 **gabrielefantini/gabrielefantini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
