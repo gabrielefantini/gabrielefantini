@@ -63,3 +63,6 @@ l’aggiornamento software over-the-air
     <li> Algoritmi e Strutture di Dati</li>
  </ul>
 </details>
+
+## Works
+- 💼 Front End of <a href="https://www.ecosentinel.it/">ecosentinel<a> web application.
