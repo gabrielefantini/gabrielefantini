@@ -65,4 +65,5 @@ l’aggiornamento software over-the-air
 </details>
 
 ## Works
-- 💼 Front End of <a href="https://www.ecosentinel.it/">ecosentinel<a> web application.
+- 💼 2022 - Ongoing. Software Engineer at <a href="https://blindata.io/">Blindata Srl</a>.
+- 💼 Front End of <a href="https://www.ecosentinel.it/">ecosentinel</a> web application.
