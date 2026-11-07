@@ -1,0 +1,111 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 320" width="1280" height="320" preserveAspectRatio="xMidYMid slice">
+  <defs>
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="5" result="b1"/>
+      <feComponentTransfer in="b1" result="b2"><feFuncA type="linear" slope="0.45"/></feComponentTransfer>
+      <feMerge><feMergeNode in="b2"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <linearGradient id="fa" x1="0" y1="1" x2="1" y2="0"><stop offset="0%" stop-color="#00b4d8"/><stop offset="50%" stop-color="#6b3cf5"/><stop offset="100%" stop-color="#f0189c"/></linearGradient><linearGradient id="fb" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#f0189c"/><stop offset="100%" stop-color="#ff8a00"/></linearGradient>
+  </defs>
+  <rect width="1280" height="320" fill="#ffffff"/>
+  <g filter="url(#glow)" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M1294.4,345.6 Q668,320 596,-16" stroke="url(#fa)" stroke-width="1.1" opacity="0.4"/>
+    <path d="M1294.4,-25.6 Q776,32 740,336" stroke="url(#fb)" stroke-width="0.9" opacity="0.3"/>
+    <path d="M1294.4,345.6 Q673.6,317.5 610.4,-16" stroke="url(#fa)" stroke-width="1.1" opacity="0.4"/>
+    <path d="M1294.4,-25.6 Q780,34.8 752,336" stroke="url(#fb)" stroke-width="0.9" opacity="0.3"/>
+    <path d="M1294.4,345.6 Q679.2,315 624.8,-16" stroke="url(#fa)" stroke-width="1.1" opacity="0.4"/>
+    <path d="M1294.4,-25.6 Q784,37.7 764,336" stroke="url(#fb)" stroke-width="0.9" opacity="0.3"/>
+    <path d="M1294.4,345.6 Q684.8,312.5 639.2,-16" stroke="url(#fa)" stroke-width="1.1" opacity="0.5"/>
+    <path d="M1294.4,-25.6 Q788,40.5 776,336" stroke="url(#fb)" stroke-width="0.9" opacity="0.4"/>
+    <path d="M1294.4,345.6 Q690.4,310 653.6,-16" stroke="url(#fa)" stroke-width="1.1" opacity="0.5"/>
+    <path d="M1294.4,-25.6 Q792,43.4 788,336" stroke="url(#fb)" stroke-width="0.9" opacity="0.4"/>
+    <path d="M1294.4,345.6 Q696,307.6 668,-16" stroke="url(#fa)" stroke-width="1.1" opacity="0.6"/>
+    <path d="M1294.4,-25.6 Q796,46.2 800,336" stroke="url(#fb)" stroke-width="0.9" opacity="0.4"/>
+    <path d="M1294.4,345.6 Q701.6,305.1 682.4,-16" stroke="url(#fa)" stroke-width="1.1" opacity="0.6"/>
+    <path d="M1294.4,-25.6 Q800,49.1 812,336" stroke="url(#fb)" stroke-width="0.9" opacity="0.5"/>
+    <path d="M1294.4,345.6 Q707.2,302.6 696.8,-16" stroke="url(#fa)" stroke-width="1.1" opacity="0.7"/>
+    <path d="M1294.4,-25.6 Q804,51.9 824,336" stroke="url(#fb)" stroke-width="0.9" opacity="0.5"/>
+    <path d="M1294.4,345.6 Q712.8,300.1 711.2,-16" stroke="url(#fa)" stroke-width="1.1" opacity="0.7"/>
+    <path d="M1294.4,-25.6 Q808,54.8 836,336" stroke="url(#fb)" stroke-width="0.9" opacity="0.5"/>
+    <path d="M1294.4,345.6 Q718.4,297.6 725.6,-16" stroke="url(#fa)" stroke-width="1.1" opacity="0.7"/>
+    <path d="M1294.4,-25.6 Q812,57.6 848,336" stroke="url(#fb)" stroke-width="0.9" opacity="0.5"/>
+    <path d="M1294.4,345.6 Q724,295.1 740,-16" stroke="url(#fa)" stroke-width="1.1" opacity="0.8"/>
+    <path d="M1294.4,-25.6 Q816,60.4 860,336" stroke="url(#fb)" stroke-width="0.9" opacity="0.6"/>
+    <path d="M1294.4,345.6 Q729.6,292.6 754.4,-16" stroke="url(#fa)" stroke-width="1.1" opacity="0.8"/>
+    <path d="M1294.4,-25.6 Q820,63.3 872,336" stroke="url(#fb)" stroke-width="0.9" opacity="0.6"/>
+    <path d="M1294.4,345.6 Q735.2,290.1 768.8,-16" stroke="url(#fa)" stroke-width="1.1" opacity="0.8"/>
+    <path d="M1294.4,-25.6 Q824,66.1 884,336" stroke="url(#fb)" stroke-width="0.9" opacity="0.6"/>
+    <path d="M1294.4,345.6 Q740.8,287.6 783.2,-16" stroke="url(#fa)" stroke-width="1.1" opacity="0.9"/>
+    <path d="M1294.4,-25.6 Q828,69 896,336" stroke="url(#fb)" stroke-width="0.9" opacity="0.6"/>
+    <path d="M1294.4,345.6 Q746.4,285.2 797.6,-16" stroke="url(#fa)" stroke-width="1.1" opacity="0.9"/>
+    <path d="M1294.4,-25.6 Q832,71.8 908,336" stroke="url(#fb)" stroke-width="0.9" opacity="0.7"/>
+    <path d="M1294.4,345.6 Q752,282.7 812,-16" stroke="url(#fa)" stroke-width="1.1" opacity="0.9"/>
+    <path d="M1294.4,-25.6 Q836,74.7 920,336" stroke="url(#fb)" stroke-width="0.9" opacity="0.7"/>
+    <path d="M1294.4,345.6 Q757.6,280.2 826.4,-16" stroke="url(#fa)" stroke-width="1.1" opacity="0.9"/>
+    <path d="M1294.4,-25.6 Q840,77.5 932,336" stroke="url(#fb)" stroke-width="0.9" opacity="0.7"/>
+    <path d="M1294.4,345.6 Q763.2,277.7 840.8,-16" stroke="url(#fa)" stroke-width="1.1" opacity="1"/>
+    <path d="M1294.4,-25.6 Q844,80.4 944,336" stroke="url(#fb)" stroke-width="0.9" opacity="0.7"/>
+    <path d="M1294.4,345.6 Q768.8,275.2 855.2,-16" stroke="url(#fa)" stroke-width="1.1" opacity="1"/>
+    <path d="M1294.4,-25.6 Q848,83.2 956,336" stroke="url(#fb)" stroke-width="0.9" opacity="0.7"/>
+    <path d="M1294.4,345.6 Q774.4,272.7 869.6,-16" stroke="url(#fa)" stroke-width="1.1" opacity="1"/>
+    <path d="M1294.4,-25.6 Q852,86 968,336" stroke="url(#fb)" stroke-width="0.9" opacity="0.7"/>
+    <path d="M1294.4,345.6 Q780,270.2 884,-16" stroke="url(#fa)" stroke-width="1.1" opacity="1"/>
+    <path d="M1294.4,-25.6 Q856,88.9 980,336" stroke="url(#fb)" stroke-width="0.9" opacity="0.7"/>
+    <path d="M1294.4,345.6 Q785.6,267.7 898.4,-16" stroke="url(#fa)" stroke-width="1.1" opacity="1"/>
+    <path d="M1294.4,-25.6 Q860,91.7 992,336" stroke="url(#fb)" stroke-width="0.9" opacity="0.7"/>
+    <path d="M1294.4,345.6 Q791.2,265.2 912.8,-16" stroke="url(#fa)" stroke-width="1.1" opacity="1"/>
+    <path d="M1294.4,-25.6 Q864,94.6 1004,336" stroke="url(#fb)" stroke-width="0.9" opacity="0.7"/>
+    <path d="M1294.4,345.6 Q796.8,262.8 927.2,-16" stroke="url(#fa)" stroke-width="1.1" opacity="1"/>
+    <path d="M1294.4,-25.6 Q868,97.4 1016,336" stroke="url(#fb)" stroke-width="0.9" opacity="0.7"/>
+    <path d="M1294.4,345.6 Q802.4,260.3 941.6,-16" stroke="url(#fa)" stroke-width="1.1" opacity="1"/>
+    <path d="M1294.4,-25.6 Q872,100.3 1028,336" stroke="url(#fb)" stroke-width="0.9" opacity="0.7"/>
+    <path d="M1294.4,345.6 Q808,257.8 956,-16" stroke="url(#fa)" stroke-width="1.1" opacity="1"/>
+    <path d="M1294.4,-25.6 Q876,103.1 1040,336" stroke="url(#fb)" stroke-width="0.9" opacity="0.7"/>
+    <path d="M1294.4,345.6 Q813.6,255.3 970.4,-16" stroke="url(#fa)" stroke-width="1.1" opacity="1"/>
+    <path d="M1294.4,-25.6 Q880,106 1052,336" stroke="url(#fb)" stroke-width="0.9" opacity="0.7"/>
+    <path d="M1294.4,345.6 Q819.2,252.8 984.8,-16" stroke="url(#fa)" stroke-width="1.1" opacity="1"/>
+    <path d="M1294.4,-25.6 Q884,108.8 1064,336" stroke="url(#fb)" stroke-width="0.9" opacity="0.7"/>
+    <path d="M1294.4,345.6 Q824.8,250.3 999.2,-16" stroke="url(#fa)" stroke-width="1.1" opacity="1"/>
+    <path d="M1294.4,-25.6 Q888,111.6 1076,336" stroke="url(#fb)" stroke-width="0.9" opacity="0.7"/>
+    <path d="M1294.4,345.6 Q830.4,247.8 1013.6,-16" stroke="url(#fa)" stroke-width="1.1" opacity="0.9"/>
+    <path d="M1294.4,-25.6 Q892,114.5 1088,336" stroke="url(#fb)" stroke-width="0.9" opacity="0.7"/>
+    <path d="M1294.4,345.6 Q836,245.3 1028,-16" stroke="url(#fa)" stroke-width="1.1" opacity="0.9"/>
+    <path d="M1294.4,-25.6 Q896,117.3 1100,336" stroke="url(#fb)" stroke-width="0.9" opacity="0.7"/>
+    <path d="M1294.4,345.6 Q841.6,242.8 1042.4,-16" stroke="url(#fa)" stroke-width="1.1" opacity="0.9"/>
+    <path d="M1294.4,-25.6 Q900,120.2 1112,336" stroke="url(#fb)" stroke-width="0.9" opacity="0.7"/>
+    <path d="M1294.4,345.6 Q847.2,240.4 1056.8,-16" stroke="url(#fa)" stroke-width="1.1" opacity="0.9"/>
+    <path d="M1294.4,-25.6 Q904,123 1124,336" stroke="url(#fb)" stroke-width="0.9" opacity="0.6"/>
+    <path d="M1294.4,345.6 Q852.8,237.9 1071.2,-16" stroke="url(#fa)" stroke-width="1.1" opacity="0.8"/>
+    <path d="M1294.4,-25.6 Q908,125.9 1136,336" stroke="url(#fb)" stroke-width="0.9" opacity="0.6"/>
+    <path d="M1294.4,345.6 Q858.4,235.4 1085.6,-16" stroke="url(#fa)" stroke-width="1.1" opacity="0.8"/>
+    <path d="M1294.4,-25.6 Q912,128.7 1148,336" stroke="url(#fb)" stroke-width="0.9" opacity="0.6"/>
+    <path d="M1294.4,345.6 Q864,232.9 1100,-16" stroke="url(#fa)" stroke-width="1.1" opacity="0.8"/>
+    <path d="M1294.4,-25.6 Q916,131.6 1160,336" stroke="url(#fb)" stroke-width="0.9" opacity="0.6"/>
+    <path d="M1294.4,345.6 Q869.6,230.4 1114.4,-16" stroke="url(#fa)" stroke-width="1.1" opacity="0.7"/>
+    <path d="M1294.4,-25.6 Q920,134.4 1172,336" stroke="url(#fb)" stroke-width="0.9" opacity="0.5"/>
+    <path d="M1294.4,345.6 Q875.2,227.9 1128.8,-16" stroke="url(#fa)" stroke-width="1.1" opacity="0.7"/>
+    <path d="M1294.4,-25.6 Q924,137.2 1184,336" stroke="url(#fb)" stroke-width="0.9" opacity="0.5"/>
+    <path d="M1294.4,345.6 Q880.8,225.4 1143.2,-16" stroke="url(#fa)" stroke-width="1.1" opacity="0.7"/>
+    <path d="M1294.4,-25.6 Q928,140.1 1196,336" stroke="url(#fb)" stroke-width="0.9" opacity="0.5"/>
+    <path d="M1294.4,345.6 Q886.4,222.9 1157.6,-16" stroke="url(#fa)" stroke-width="1.1" opacity="0.6"/>
+    <path d="M1294.4,-25.6 Q932,142.9 1208,336" stroke="url(#fb)" stroke-width="0.9" opacity="0.5"/>
+    <path d="M1294.4,345.6 Q892,220.4 1172,-16" stroke="url(#fa)" stroke-width="1.1" opacity="0.6"/>
+    <path d="M1294.4,-25.6 Q936,145.8 1220,336" stroke="url(#fb)" stroke-width="0.9" opacity="0.4"/>
+    <path d="M1294.4,345.6 Q897.6,218 1186.4,-16" stroke="url(#fa)" stroke-width="1.1" opacity="0.5"/>
+    <path d="M1294.4,-25.6 Q940,148.6 1232,336" stroke="url(#fb)" stroke-width="0.9" opacity="0.4"/>
+    <path d="M1294.4,345.6 Q903.2,215.5 1200.8,-16" stroke="url(#fa)" stroke-width="1.1" opacity="0.5"/>
+    <path d="M1294.4,-25.6 Q944,151.5 1244,336" stroke="url(#fb)" stroke-width="0.9" opacity="0.4"/>
+    <path d="M1294.4,345.6 Q908.8,213 1215.2,-16" stroke="url(#fa)" stroke-width="1.1" opacity="0.4"/>
+    <path d="M1294.4,-25.6 Q948,154.3 1256,336" stroke="url(#fb)" stroke-width="0.9" opacity="0.3"/>
+    <path d="M1294.4,345.6 Q914.4,210.5 1229.6,-16" stroke="url(#fa)" stroke-width="1.1" opacity="0.4"/>
+    <path d="M1294.4,-25.6 Q952,157.2 1268,336" stroke="url(#fb)" stroke-width="0.9" opacity="0.3"/>
+    <path d="M1294.4,345.6 Q920,208 1244,-16" stroke="url(#fa)" stroke-width="1.1" opacity="0.4"/>
+    <path d="M1294.4,-25.6 Q956,160 1280,336" stroke="url(#fb)" stroke-width="0.9" opacity="0.3"/>
+
+  </g>
+  <g font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif">
+    <text x="64" y="130" font-size="52" font-weight="600" letter-spacing="-1.5" fill="#0d0d0d">Gabriele Fantini</text>
+    <text x="66" y="178" font-size="24" fill="rgba(0,0,0,0.62)">From conversations to code.</text>
+    <text x="66" y="228" font-size="12" fill="#00b4d8" letter-spacing="1.4">DDD · CLEAN ARCHITECTURE · EVENTSTORMING · AI IN SOFTWARE ENGINEERING</text>
+  </g>
+</svg>

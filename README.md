@@ -1,69 +1,39 @@
-<h1 align='center'>
-  Hi there 👋 I'm Gabriele 👨‍💻
-</h1>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./banner-dark.svg">
+  <img alt="Gabriele Fantini — From conversations to code. DDD · Clean architecture · EventStorming · AI in software engineering" src="./banner-light.svg" width="100%">
+</picture>
 
-<img src="https://github.com/gabrielefantini/gabrielefantini/blob/main/Corporate%20Business%20Card.png" />
+### Hi, I'm Gabriele 👋
 
-## Education
+I'm a software engineer who starts from the domain. I turn conversations with domain experts into models, models into clean architecture, and architecture into code — increasingly with AI in the loop.
 
-- 🎓 **Laurea Magistrale in Ingegneria Informatica**\
-📆 2020 - 2022\
-📍 **Politecnico di Torino** - Torino, Italy\
-📕 <a href="https://github.com/gabrielefantini/gabrielefantini/blob/main/MasterThesis.pdf">Continuous integration for End-to-End testing of mobile applications.<a>
+#### 🧭 How I work
 
-<details>
-  <summary>📃 Exams</summary>
-  <ul>
-    <li> Applicazioni Web I</li>
-    <li>Architetture dei sistemi di elaborazione</li>
-    <li>Data Science e Tecnologie per le Basi di Dati	</li>
-    <li>Formal languages and compilers</li>
-    <li>Information systems</li>
-    <li>Ingegneria del software</li>
-    <li>Machine learning for vision and multimedia</li>
-    <li>Mobile application development</li>
-    <li>Programmazione di sistema</li>
-    <li>Sicurezza dei sistemi informativi</li>
-    <li> Software Engineering II</li>
-    <li>Tecnologie e servizi di rete</li>
-    <li>Web Applications II</li>
-  </ul>
-</details>
+- **Collaborative modelling** — domain storytelling and EventStorming to find the real problem before writing code.
+- **Domain-driven design** — ubiquitous language, bounded contexts and aggregates that speak the language of the business.
+- **Clean architecture** — explicit boundaries, ports and adapters, and a framework-independent core that stays testable.
+- **Solid engineering** — testing, CI and reliable delivery. Both my theses were about shipping software you can trust.
 
----
+#### 🧪 Exploring now
 
-- 🎓 **Ingegneria Informatica ed Elettronica**\
-📆 2016 - 2020\
-📍 **Università degli Studi di Perugia** - Perugia, Italy\
-📕 <a href="https://github.com/gabrielefantini/gabrielefantini/blob/main/BachelorThesis.pdf">Studio e sviluppo di un sistema per
-l’aggiornamento software over-the-air
-(ota) per applicazioni automotive.<a>
+- **AI × Modelling** — turning EventStorming output into a first draft of bounded contexts and aggregates.
+- **AI × Engineering** — coding agents in the development loop, guided by architecture, tests and conventions.
+- **AI × Data** — governed context for agents: ontologies and metadata exposed through MCP instead of guesswork.
+
+#### 🔗 Where software craft meets data
+
+Lately I've been applying DDD thinking to data: ubiquitous language → **ontologies**, bounded contexts → **federated domains**, ports & contracts → **data contracts**, CI → **computational governance**.
+
+<sub>Currently a software engineer at [@blindata](https://github.com/blindata) and a contributor to [@opendatamesh-initiative](https://github.com/opendatamesh-initiative).</sub>
+
+#### 📫 Elsewhere
+
+🌍 [gabrielefantini.github.io](https://gabrielefantini.github.io) · 💼 [LinkedIn](https://www.linkedin.com/in/gabriele-fantini-3b9711130) · ✉️ [gabrielefantini97@gmail.com](mailto:gabrielefantini97@gmail.com)
 
 <details>
-  <summary>📃 Exams</summary>
-  <ul>
-    <li> Analisi Matematica 1</li>
-    <li>Analisi Matematica 2</li>
-    <li>Fisica A</li>
-    <li>Fondamenti di Informatica e Laboratorio</li>
-    <li> Geometria ed Algebra</li>
-    <li> Matematica Discreta</li>
-    <li> Architetture dei Calcolatori e Sistemi Operativi</li>
-    <li>Calcolo delle Probabilità</li>
-    <li>Fisica B</li>
-    <li> Fondamenti di Automatica</li>
-    <li> Programmazione di Interfacce Grafiche e Dispositivi Mobili</li>
-    <li> Teoria dei Circuiti</li>
-    <li> Teoria dei Segnali</li>
-    <li> Basi di Dati</li>
-    <li> Economia ed Organizzazione Aziendale</li>
-    <li> Ingegneria dei Sistemi di Controllo</li>
-    <li>Reti Logiche e Microcontrollori e Laboratorio</li>
-    <li>Fondamenti di Internet con Laboratorio</li>
-    <li> Algoritmi e Strutture di Dati</li>
- </ul>
-</details>
+<summary>🎓 Education</summary>
 
-## Works
-- 💼 2022 - Ongoing. Software Engineer at <a href="https://blindata.io/">Blindata Srl</a>.
-- 💼 Front End of <a href="https://www.ecosentinel.it/">ecosentinel</a> web application.
+- **MSc, Computer Engineering** — Politecnico di Torino (2020–2022). Thesis: [*Continuous integration for end-to-end testing of mobile applications*](./MasterThesis.pdf).
+- **BSc, Computer & Electronic Engineering** — Università degli Studi di Perugia (2016–2020). [Thesis](./BachelorThesis.pdf) on over-the-air (OTA) software updates for automotive applications.
+
+</details>
